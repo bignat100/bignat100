@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bignat100
+- 👀 I’m interested in Powershell Scripting, Azure Administration and Automation, Azure DevOps
+- 🌱 I’m currently learning DevOps processes, Powershell, Git, versioning, etc.
+- 💞️ I’m looking to collaborate on my scripting
